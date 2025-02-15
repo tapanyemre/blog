@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tapanyemre.github.io/categories/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gaming/</loc>
+    <loc>https://tapanyemre.github.io/categories/gaming/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tapanyemre.github.io/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://tapanyemre.github.io/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/weeknotes/</loc>
+    <loc>https://tapanyemre.github.io/categories/weeknotes/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/weeknotes-2024-w49/</loc>
+    <loc>https://tapanyemre.github.io/posts/weeknotes-2024-w49/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://tapanyemre.github.io/notes/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/stalker-2-mods/</loc>
+    <loc>https://tapanyemre.github.io/notes/stalker-2-mods/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/alacritty/</loc>
+    <loc>https://tapanyemre.github.io/categories/alacritty/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/neovim/</loc>
+    <loc>https://tapanyemre.github.io/categories/neovim/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/alacritty-tmux-neovim-colors-and-undercurl/</loc>
+    <loc>https://tapanyemre.github.io/notes/alacritty-tmux-neovim-colors-and-undercurl/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/tmux/</loc>
+    <loc>https://tapanyemre.github.io/categories/tmux/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/weeknotes-2024-w48/</loc>
+    <loc>https://tapanyemre.github.io/posts/weeknotes-2024-w48/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/weeknotes-2024-w47/</loc>
+    <loc>https://tapanyemre.github.io/posts/weeknotes-2024-w47/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/weeknotes-2024-w46/</loc>
+    <loc>https://tapanyemre.github.io/posts/weeknotes-2024-w46/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/weeknotes-2024-w45/</loc>
+    <loc>https://tapanyemre.github.io/posts/weeknotes-2024-w45/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/regex/</loc>
+    <loc>https://tapanyemre.github.io/categories/regex/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/regex101-urls-with-pre-filled-values/</loc>
+    <loc>https://tapanyemre.github.io/notes/regex101-urls-with-pre-filled-values/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/web-tools/</loc>
+    <loc>https://tapanyemre.github.io/categories/web-tools/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/cicd/</loc>
+    <loc>https://tapanyemre.github.io/categories/cicd/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/gitlab/</loc>
+    <loc>https://tapanyemre.github.io/categories/gitlab/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/golang/</loc>
+    <loc>https://tapanyemre.github.io/categories/golang/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/private-go-modules-gitlab-ci/</loc>
+    <loc>https://tapanyemre.github.io/notes/private-go-modules-gitlab-ci/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/nvim-go-template-syntax-highlighting/</loc>
+    <loc>https://tapanyemre.github.io/notes/nvim-go-template-syntax-highlighting/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/open-source/</loc>
+    <loc>https://tapanyemre.github.io/categories/open-source/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/tatt-template-all-the-things/</loc>
+    <loc>https://tapanyemre.github.io/posts/tatt-template-all-the-things/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/tool/</loc>
+    <loc>https://tapanyemre.github.io/categories/tool/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/programming/</loc>
+    <loc>https://tapanyemre.github.io/categories/programming/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/automatically-run-go-test-on-file-changes/</loc>
+    <loc>https://tapanyemre.github.io/posts/automatically-run-go-test-on-file-changes/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/quick-tip/</loc>
+    <loc>https://tapanyemre.github.io/categories/quick-tip/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/testing/</loc>
+    <loc>https://tapanyemre.github.io/categories/testing/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/dotfiles/</loc>
+    <loc>https://tapanyemre.github.io/categories/dotfiles/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/italic-text-in-alacritty-tmux-neovim/</loc>
+    <loc>https://tapanyemre.github.io/posts/italic-text-in-alacritty-tmux-neovim/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/reboot/</loc>
+    <loc>https://tapanyemre.github.io/posts/reboot/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://tapanyemre.github.io/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/blog/finding-evil-go-packages/</loc>
+    <loc>https://tapanyemre.github.io/archive/blog/finding-evil-go-packages/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/blog/aquatone-now-in-go/</loc>
+    <loc>https://tapanyemre.github.io/archive/blog/aquatone-now-in-go/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/blog/drawio-for-threat-modeling/</loc>
+    <loc>https://tapanyemre.github.io/archive/blog/drawio-for-threat-modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/blog/gitrob-now-in-go/</loc>
+    <loc>https://tapanyemre.github.io/archive/blog/gitrob-now-in-go/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://tapanyemre.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/graph/</loc>
+    <loc>https://tapanyemre.github.io/graph/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tapanyemre.github.io/tags/</loc>
   </url>
 </urlset>
