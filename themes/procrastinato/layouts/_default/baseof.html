@@ -2,7 +2,11 @@
 {{- $maxWidth := cond ( eq .Site.Params.layout.wide true ) "max-w-screen-lg" "max-w-screen-md" -}}
 {{- $defaults := .Site.Data.procrastinato.defaults -}}
 <!doctype html>
-<html lang="{{ $lang }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}"{{ if eq .Site.Params.theme.force "dark" }} class="dark"{{ end }}>
+{{- if .Site.LanguageCode -}}
+  <html lang="{{ .Site.LanguageCode }}">
+{{- else -}}
+  <html lang="en">
+{{- end -}}
   <head>
     {{ partial "head.html" . }}
   </head>
