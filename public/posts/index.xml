@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Yunus Emre Tapan</title>
-    <link>https://tapanyemre.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Yunus Emre Tapan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,68 +10,68 @@
     <webMaster>tapanyemre@gmail.com (Yunus Emre Tapan)</webMaster>
     <copyright>Yunus Emre Tapan</copyright>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tapanyemre.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weeknotes 2024 w49: S.T.A.L.K.E.R</title>
-      <link>https://tapanyemre.github.io/posts/weeknotes-2024-w49/</link>
+      <link>http://localhost:1313/posts/weeknotes-2024-w49/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/weeknotes-2024-w49/</guid>
+      <guid>http://localhost:1313/posts/weeknotes-2024-w49/</guid>
       <description>Michael&amp;rsquo;s weeknotes for December 2-8, 2024.</description>
     </item>
     <item>
       <title>Weeknotes 2024 w48: not great, not terrible</title>
-      <link>https://tapanyemre.github.io/posts/weeknotes-2024-w48/</link>
+      <link>http://localhost:1313/posts/weeknotes-2024-w48/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/weeknotes-2024-w48/</guid>
+      <guid>http://localhost:1313/posts/weeknotes-2024-w48/</guid>
       <description>Michael&amp;rsquo;s weeknotes for November 25 – December 1, 2024.</description>
     </item>
     <item>
       <title>Weeknotes 2024 w47: quadratus lumborum</title>
-      <link>https://tapanyemre.github.io/posts/weeknotes-2024-w47/</link>
+      <link>http://localhost:1313/posts/weeknotes-2024-w47/</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/weeknotes-2024-w47/</guid>
+      <guid>http://localhost:1313/posts/weeknotes-2024-w47/</guid>
       <description>Michael&amp;rsquo;s weeknotes for November 18-24, 2024.</description>
     </item>
     <item>
       <title>Weeknotes 2024 w46: check the box</title>
-      <link>https://tapanyemre.github.io/posts/weeknotes-2024-w46/</link>
+      <link>http://localhost:1313/posts/weeknotes-2024-w46/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/weeknotes-2024-w46/</guid>
+      <guid>http://localhost:1313/posts/weeknotes-2024-w46/</guid>
       <description>Michael&amp;rsquo;s weeknotes for November 11-17, 2024.</description>
     </item>
     <item>
       <title>Weeknotes 2024 w45: you can only watch</title>
-      <link>https://tapanyemre.github.io/posts/weeknotes-2024-w45/</link>
+      <link>http://localhost:1313/posts/weeknotes-2024-w45/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/weeknotes-2024-w45/</guid>
+      <guid>http://localhost:1313/posts/weeknotes-2024-w45/</guid>
       <description>Michael&amp;rsquo;s weeknotes for November 4-10, 2024.</description>
     </item>
     <item>
       <title>Templating all the things</title>
-      <link>https://tapanyemre.github.io/posts/tatt-template-all-the-things/</link>
+      <link>http://localhost:1313/posts/tatt-template-all-the-things/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/tatt-template-all-the-things/</guid>
+      <guid>http://localhost:1313/posts/tatt-template-all-the-things/</guid>
       <description>&lt;p class=&#34;lead&#34;&gt;I created and released a simple CLI tool to render Go templates using data from YAML, JSON, or TOML files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quick tip: Automatic test runs when files change</title>
-      <link>https://tapanyemre.github.io/posts/automatically-run-go-test-on-file-changes/</link>
+      <link>http://localhost:1313/posts/automatically-run-go-test-on-file-changes/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/automatically-run-go-test-on-file-changes/</guid>
+      <guid>http://localhost:1313/posts/automatically-run-go-test-on-file-changes/</guid>
       <description>&lt;p class=&#34;lead&#34;&gt;How to use watchexec to get instant feedback from your tests when you change a file in your Go project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Italic text in Alacritty, tmux, and Neovim</title>
-      <link>https://tapanyemre.github.io/posts/italic-text-in-alacritty-tmux-neovim/</link>
+      <link>http://localhost:1313/posts/italic-text-in-alacritty-tmux-neovim/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/italic-text-in-alacritty-tmux-neovim/</guid>
+      <guid>http://localhost:1313/posts/italic-text-in-alacritty-tmux-neovim/</guid>
       <description>&lt;p class=&#34;lead&#34;&gt;A quick guide to get properly set up with italic text, curly underlines and other advanced styles in Alacritty, tmux,&#xA;and Neovim on macOS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reboot</title>
-      <link>https://tapanyemre.github.io/posts/reboot/</link>
+      <link>http://localhost:1313/posts/reboot/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/posts/reboot/</guid>
+      <guid>http://localhost:1313/posts/reboot/</guid>
       <description>&lt;p class=&#34;lead&#34;&gt;Ah yes, it was time again to reboot my blog. If I don&amp;rsquo;t write any posts, I might as well spend my time tinkering with&#xA;the blog itself, right?&lt;/p&gt;</description>
     </item>
   </channel>
