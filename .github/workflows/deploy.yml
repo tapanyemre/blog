@@ -65,10 +65,6 @@ jobs:
           if [ -f extra-files.zip ]; then
             unzip -o extra-files.zip -d public;
           fi
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
 
   deploy:
     environment:
