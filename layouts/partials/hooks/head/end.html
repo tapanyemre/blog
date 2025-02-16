@@ -1,4 +1,0 @@
-{{ if hugo.IsProduction -}}
-{{- $u := urls.Parse .Site.BaseURL -}}
-<script defer data-domain="{{ $u.Hostname }}" src="https://plausible.io/js/script.js"></script>
-{{ end -}}
