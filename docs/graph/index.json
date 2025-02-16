@@ -1,1 +1,190 @@
-{"graph":{"/notes/alacritty-tmux-neovim-colors-and-undercurl/":{"in":["/posts/weeknotes-2024-w48/"],"out":["/posts/italic-text-in-alacritty-tmux-neovim/"]},"/notes/nvim-go-template-syntax-highlighting/":{"in":[],"out":[]},"/notes/private-go-modules-gitlab-ci/":{"in":[],"out":[]},"/notes/regex101-urls-with-pre-filled-values/":{"in":["/posts/weeknotes-2024-w45/"],"out":[]},"/notes/stalker-2-mods/":{"in":["/posts/weeknotes-2024-w49/"],"out":[]},"/posts/automatically-run-go-test-on-file-changes/":{"in":[],"out":[]},"/posts/italic-text-in-alacritty-tmux-neovim/":{"in":["/posts/weeknotes-2024-w48/","/notes/alacritty-tmux-neovim-colors-and-undercurl/"],"out":[]},"/posts/reboot/":{"in":[],"out":[]},"/posts/tatt-template-all-the-things/":{"in":[],"out":[]},"/posts/weeknotes-2024-w45/":{"in":["/posts/weeknotes-2024-w46/"],"out":["/notes/regex101-urls-with-pre-filled-values/"]},"/posts/weeknotes-2024-w46/":{"in":[],"out":["/posts/weeknotes-2024-w45/"]},"/posts/weeknotes-2024-w47/":{"in":[],"out":[]},"/posts/weeknotes-2024-w48/":{"in":[],"out":["/posts/italic-text-in-alacritty-tmux-neovim/","/notes/alacritty-tmux-neovim-colors-and-undercurl/"]},"/posts/weeknotes-2024-w49/":{"in":[],"out":["/notes/stalker-2-mods/"]}},"pages":{"/notes/alacritty-tmux-neovim-colors-and-undercurl/":{"permalink":"/notes/alacritty-tmux-neovim-colors-and-undercurl/","section":"notes","title":"Neovim colors and undercurls in tmux and Alacritty"},"/notes/nvim-go-template-syntax-highlighting/":{"permalink":"/notes/nvim-go-template-syntax-highlighting/","section":"notes","title":"Highlight syntax in Go templates"},"/notes/private-go-modules-gitlab-ci/":{"permalink":"/notes/private-go-modules-gitlab-ci/","section":"notes","title":"Private Go modules in GitLab CI/CD"},"/notes/regex101-urls-with-pre-filled-values/":{"permalink":"/notes/regex101-urls-with-pre-filled-values/","section":"notes","title":"Regex101 URLs with pre-filled values"},"/notes/stalker-2-mods/":{"permalink":"/notes/stalker-2-mods/","section":"notes","title":"S.T.A.L.K.E.R 2 mods I play with"},"/posts/automatically-run-go-test-on-file-changes/":{"permalink":"/posts/automatically-run-go-test-on-file-changes/","section":"posts","title":"Quick tip: Automatic test runs when files change"},"/posts/italic-text-in-alacritty-tmux-neovim/":{"permalink":"/posts/italic-text-in-alacritty-tmux-neovim/","section":"posts","title":"Italic text in Alacritty, tmux, and Neovim"},"/posts/reboot/":{"permalink":"/posts/reboot/","section":"posts","title":"Reboot"},"/posts/tatt-template-all-the-things/":{"permalink":"/posts/tatt-template-all-the-things/","section":"posts","title":"Templating all the things"},"/posts/weeknotes-2024-w45/":{"permalink":"/posts/weeknotes-2024-w45/","section":"posts","title":"Weeknotes 2024 w45: you can only watch"},"/posts/weeknotes-2024-w46/":{"permalink":"/posts/weeknotes-2024-w46/","section":"posts","title":"Weeknotes 2024 w46: check the box"},"/posts/weeknotes-2024-w47/":{"permalink":"/posts/weeknotes-2024-w47/","section":"posts","title":"Weeknotes 2024 w47: quadratus lumborum"},"/posts/weeknotes-2024-w48/":{"permalink":"/posts/weeknotes-2024-w48/","section":"posts","title":"Weeknotes 2024 w48: not great, not terrible"},"/posts/weeknotes-2024-w49/":{"permalink":"/posts/weeknotes-2024-w49/","section":"posts","title":"Weeknotes 2024 w49: S.T.A.L.K.E.R"}}}
+{
+    "graph": {
+      "/notes/alacritty-tmux-neovim-colors-and-undercurl/": {
+        "in": [
+          "/posts/weeknotes-2024-w48/"
+        ],
+        "out": [
+          "/posts/italic-text-in-alacritty-tmux-neovim/"
+        ]
+      },
+      "/notes/nvim-go-template-syntax-highlighting/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/notes/private-go-modules-gitlab-ci/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/notes/regex101-urls-with-pre-filled-values/": {
+        "in": [
+          "/posts/weeknotes-2024-w45/"
+        ],
+        "out": [
+          
+        ]
+      },
+      "/notes/stalker-2-mods/": {
+        "in": [
+          "/posts/weeknotes-2024-w49/"
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/automatically-run-go-test-on-file-changes/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/italic-text-in-alacritty-tmux-neovim/": {
+        "in": [
+          "/posts/weeknotes-2024-w48/",
+          "/notes/alacritty-tmux-neovim-colors-and-undercurl/"
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/reboot/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/tatt-template-all-the-things/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/weeknotes-2024-w45/": {
+        "in": [
+          "/posts/weeknotes-2024-w46/"
+        ],
+        "out": [
+          "/notes/regex101-urls-with-pre-filled-values/"
+        ]
+      },
+      "/posts/weeknotes-2024-w46/": {
+        "in": [
+          
+        ],
+        "out": [
+          "/posts/weeknotes-2024-w45/"
+        ]
+      },
+      "/posts/weeknotes-2024-w47/": {
+        "in": [
+          
+        ],
+        "out": [
+          
+        ]
+      },
+      "/posts/weeknotes-2024-w48/": {
+        "in": [
+          
+        ],
+        "out": [
+          "/posts/italic-text-in-alacritty-tmux-neovim/",
+          "/notes/alacritty-tmux-neovim-colors-and-undercurl/"
+        ]
+      },
+      "/posts/weeknotes-2024-w49/": {
+        "in": [
+          
+        ],
+        "out": [
+          "/notes/stalker-2-mods/"
+        ]
+      }
+    },
+    "pages": {
+      "/notes/alacritty-tmux-neovim-colors-and-undercurl/": {
+        "permalink": "/notes/alacritty-tmux-neovim-colors-and-undercurl/",
+        "section": "notes",
+        "title": "Neovim colors and undercurls in tmux and Alacritty"
+      },
+      "/notes/nvim-go-template-syntax-highlighting/": {
+        "permalink": "/notes/nvim-go-template-syntax-highlighting/",
+        "section": "notes",
+        "title": "Highlight syntax in Go templates"
+      },
+      "/notes/private-go-modules-gitlab-ci/": {
+        "permalink": "/notes/private-go-modules-gitlab-ci/",
+        "section": "notes",
+        "title": "Private Go modules in GitLab CI/CD"
+      },
+      "/notes/regex101-urls-with-pre-filled-values/": {
+        "permalink": "/notes/regex101-urls-with-pre-filled-values/",
+        "section": "notes",
+        "title": "Regex101 URLs with pre-filled values"
+      },
+      "/notes/stalker-2-mods/": {
+        "permalink": "/notes/stalker-2-mods/",
+        "section": "notes",
+        "title": "S.T.A.L.K.E.R 2 mods I play with"
+      },
+      "/posts/automatically-run-go-test-on-file-changes/": {
+        "permalink": "/posts/automatically-run-go-test-on-file-changes/",
+        "section": "posts",
+        "title": "Quick tip: Automatic test runs when files change"
+      },
+      "/posts/italic-text-in-alacritty-tmux-neovim/": {
+        "permalink": "/posts/italic-text-in-alacritty-tmux-neovim/",
+        "section": "posts",
+        "title": "Italic text in Alacritty, tmux, and Neovim"
+      },
+      "/posts/reboot/": {
+        "permalink": "/posts/reboot/",
+        "section": "posts",
+        "title": "Reboot"
+      },
+      "/posts/tatt-template-all-the-things/": {
+        "permalink": "/posts/tatt-template-all-the-things/",
+        "section": "posts",
+        "title": "Templating all the things"
+      },
+      "/posts/weeknotes-2024-w45/": {
+        "permalink": "/posts/weeknotes-2024-w45/",
+        "section": "posts",
+        "title": "Weeknotes 2024 w45: you can only watch"
+      },
+      "/posts/weeknotes-2024-w46/": {
+        "permalink": "/posts/weeknotes-2024-w46/",
+        "section": "posts",
+        "title": "Weeknotes 2024 w46: check the box"
+      },
+      "/posts/weeknotes-2024-w47/": {
+        "permalink": "/posts/weeknotes-2024-w47/",
+        "section": "posts",
+        "title": "Weeknotes 2024 w47: quadratus lumborum"
+      },
+      "/posts/weeknotes-2024-w48/": {
+        "permalink": "/posts/weeknotes-2024-w48/",
+        "section": "posts",
+        "title": "Weeknotes 2024 w48: not great, not terrible"
+      },
+      "/posts/weeknotes-2024-w49/": {
+        "permalink": "/posts/weeknotes-2024-w49/",
+        "section": "posts",
+        "title": "Weeknotes 2024 w49: S.T.A.L.K.E.R"
+      }
+    }
+  }

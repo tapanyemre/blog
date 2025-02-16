@@ -53256,7 +53256,7 @@ input.vis-configuration.vis-config-range:focus::-ms-fill-upper {
       this._observer = null;
       this.showLoading();
       try {
-        const dataEndpoint = this.getAttribute("data-endpoint") || "/graph/index.json";
+        const dataEndpoint = this.getAttribute("data-endpoint") || "/blog/graph/index.json";
         const resp = await fetch(dataEndpoint);
         const graph = new Graph(await resp.json());
         const permalink = this.getAttribute("page");
