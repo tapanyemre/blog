@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yunus Emre Tapan</title>
-    <link>https://tapanyemre.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Yunus Emre Tapan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,117 +10,117 @@
     <webMaster>tapanyemre@gmail.com (Yunus Emre Tapan)</webMaster>
     <copyright>Yunus Emre Tapan</copyright>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tapanyemre.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming</title>
-      <link>https://tapanyemre.github.io/categories/gaming/</link>
+      <link>http://localhost:1313/categories/gaming/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/gaming/</guid>
+      <guid>http://localhost:1313/categories/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Weeknotes</title>
-      <link>https://tapanyemre.github.io/categories/weeknotes/</link>
+      <link>http://localhost:1313/categories/weeknotes/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/weeknotes/</guid>
+      <guid>http://localhost:1313/categories/weeknotes/</guid>
       <description></description>
     </item>
     <item>
       <title>Alacritty</title>
-      <link>https://tapanyemre.github.io/categories/alacritty/</link>
+      <link>http://localhost:1313/categories/alacritty/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/alacritty/</guid>
+      <guid>http://localhost:1313/categories/alacritty/</guid>
       <description></description>
     </item>
     <item>
       <title>Neovim</title>
-      <link>https://tapanyemre.github.io/categories/neovim/</link>
+      <link>http://localhost:1313/categories/neovim/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/neovim/</guid>
+      <guid>http://localhost:1313/categories/neovim/</guid>
       <description></description>
     </item>
     <item>
       <title>Tmux</title>
-      <link>https://tapanyemre.github.io/categories/tmux/</link>
+      <link>http://localhost:1313/categories/tmux/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/tmux/</guid>
+      <guid>http://localhost:1313/categories/tmux/</guid>
       <description></description>
     </item>
     <item>
       <title>Regex</title>
-      <link>https://tapanyemre.github.io/categories/regex/</link>
+      <link>http://localhost:1313/categories/regex/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/regex/</guid>
+      <guid>http://localhost:1313/categories/regex/</guid>
       <description></description>
     </item>
     <item>
       <title>Web-tools</title>
-      <link>https://tapanyemre.github.io/categories/web-tools/</link>
+      <link>http://localhost:1313/categories/web-tools/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/web-tools/</guid>
+      <guid>http://localhost:1313/categories/web-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>CICD</title>
-      <link>https://tapanyemre.github.io/categories/cicd/</link>
+      <link>http://localhost:1313/categories/cicd/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/cicd/</guid>
+      <guid>http://localhost:1313/categories/cicd/</guid>
       <description></description>
     </item>
     <item>
       <title>Gitlab</title>
-      <link>https://tapanyemre.github.io/categories/gitlab/</link>
+      <link>http://localhost:1313/categories/gitlab/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/gitlab/</guid>
+      <guid>http://localhost:1313/categories/gitlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://tapanyemre.github.io/categories/golang/</link>
+      <link>http://localhost:1313/categories/golang/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/golang/</guid>
+      <guid>http://localhost:1313/categories/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-source</title>
-      <link>https://tapanyemre.github.io/categories/open-source/</link>
+      <link>http://localhost:1313/categories/open-source/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/open-source/</guid>
+      <guid>http://localhost:1313/categories/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Tool</title>
-      <link>https://tapanyemre.github.io/categories/tool/</link>
+      <link>http://localhost:1313/categories/tool/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/tool/</guid>
+      <guid>http://localhost:1313/categories/tool/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://tapanyemre.github.io/categories/programming/</link>
+      <link>http://localhost:1313/categories/programming/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/programming/</guid>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Quick-tip</title>
-      <link>https://tapanyemre.github.io/categories/quick-tip/</link>
+      <link>http://localhost:1313/categories/quick-tip/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/quick-tip/</guid>
+      <guid>http://localhost:1313/categories/quick-tip/</guid>
       <description></description>
     </item>
     <item>
       <title>Testing</title>
-      <link>https://tapanyemre.github.io/categories/testing/</link>
+      <link>http://localhost:1313/categories/testing/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/testing/</guid>
+      <guid>http://localhost:1313/categories/testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Dotfiles</title>
-      <link>https://tapanyemre.github.io/categories/dotfiles/</link>
+      <link>http://localhost:1313/categories/dotfiles/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author>
-      <guid>https://tapanyemre.github.io/categories/dotfiles/</guid>
+      <guid>http://localhost:1313/categories/dotfiles/</guid>
       <description></description>
     </item>
   </channel>
