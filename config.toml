@@ -5,6 +5,7 @@ enableRobotsTXT = true
 titleCaseStyle = "firstupper"
 copyright = 'Yunus Emre Tapan'
 publishDir = "docs"
+canonifyURLs = true
 
 [module]
   [[module.imports]]
