@@ -1,5 +1,6 @@
 # Hugo generated files
 public/
+resources/_gen/
 
 # GitHub Actions (if you do NOT want to track workflow files)
 # Uncomment the next line if you want to ignore workflow configurations
@@ -36,3 +37,19 @@ themes/procrastinato/resources/_gen/
 
 # Ignore specific generated SCSS files
 themes/procrastinato/resources/_gen/assets/scss/css/gen.scss_*.content
+
+# Hugo cache files
+resources/_gen/
+
+# Disable tracking of environment files
+.env
+.env.local
+.env.production
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+*.bak
+*.swp
