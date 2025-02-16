@@ -53,8 +53,6 @@ canonifyURLs = true
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
-        
-  [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
