@@ -24,6 +24,9 @@ jobs:
       - name: Build Site
         run: hugo --minify
 
+      - name: Ensure .nojekyll exists
+        run: cp static/.nojekyll docs/.nojekyll
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
