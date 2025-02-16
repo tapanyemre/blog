@@ -48,4 +48,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:51244/blog/sitemap.xml
+Sitemap: https://tapanyemre.github.io/blog/sitemap.xml
