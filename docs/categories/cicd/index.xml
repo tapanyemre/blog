@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CICD on Yunus Emre Tapan</title><link>https://tapanyemre.github.io/blog/categories/cicd/</link><description>Recent content in CICD on Yunus Emre Tapan</description><generator>Hugo</generator><language>en-us</language><managingEditor>tapanyemre@gmail.com (Yunus Emre Tapan)</managingEditor><webMaster>tapanyemre@gmail.com (Yunus Emre Tapan)</webMaster><copyright>Yunus Emre Tapan</copyright><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://tapanyemre.github.io/blog/categories/cicd/index.xml" rel="self" type="application/rss+xml"/><item><title>Private Go modules in GitLab CI/CD</title><link>https://tapanyemre.github.io/blog/notes/private-go-modules-gitlab-ci/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>tapanyemre@gmail.com (Yunus Emre Tapan)</author><guid>https://tapanyemre.github.io/blog/notes/private-go-modules-gitlab-ci/</guid><description>&lt;p>This took way too long for me to figure out, so here&amp;rsquo;s how to install private Go modules in &lt;a href="https://docs.gitlab.com/ee/ci/">GitLab CI/CD&lt;/a> pipeline
+jobs:&lt;/p>
+&lt;h3 id="netrc-and-goprivate" class="scroll-mt-8 group">
+ netrc and GOPRIVATE
+ 
+ &lt;a href="#netrc-and-goprivate"
+ class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+ aria-hidden="true" title="Link to this heading" tabindex="-1">
+ &lt;svg
+ xmlns="http://www.w3.org/2000/svg"
+ width="16"
+ height="16"
+ fill="none"
+ stroke="currentColor"
+ stroke-linecap="round"
+ stroke-linejoin="round"
+ stroke-width="2"
+ class="lucide lucide-link w-4 h-4 block"
+ viewBox="0 0 24 24"
+>
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+&lt;/svg>
+
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;p>Add the following to the jobs that require installing dependencies and replace &lt;code>&amp;lt;namespace&amp;gt;&lt;/code> with your organization or
+username which hosts the private Go modules:&lt;/p></description></item></channel></rss>
