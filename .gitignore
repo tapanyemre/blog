@@ -1,1 +1,38 @@
+# Hugo generated files
 public/
+
+# GitHub Actions (if you do NOT want to track workflow files)
+# Uncomment the next line if you want to ignore workflow configurations
+# .github/workflows/
+
+# Node modules (if your project uses Node.js for frontend dependencies)
+node_modules/
+
+# Go dependencies (optional, usually you track go.mod and go.sum)
+# vendor/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+bin/
+build/
+
+# Ignore generated assets in themes
+themes/procrastinato/resources/_gen/
+
+# Ignore specific generated SCSS files
+themes/procrastinato/resources/_gen/assets/scss/css/gen.scss_*.content
