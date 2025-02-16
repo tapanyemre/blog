@@ -29,7 +29,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          publish_branch: main  # Deploying to main
+          publish_branch: gh-pages  # Deploying to gh-pages
           
 permissions:
   contents: write
