@@ -1,4 +1,4 @@
-module github.com/tapanyemre/tapanyemre.github.io/blog
+module github.com/tapanyemre/blog
 
 go 1.23.2
 
