@@ -4,6 +4,7 @@ title = "Yunus Emre Tapan"
 enableRobotsTXT = true
 titleCaseStyle = "firstupper"
 copyright = 'Yunus Emre Tapan'
+publishDir = "docs"
 
 [module]
   [[module.imports]]
